@@ -1,0 +1,10 @@
+[build]
+  # Treat the frontend folder as the app root for Netlify builds.
+  base    = "frontend"
+  command = "npm run build"
+  publish = ".next"
+
+[functions]
+  # Where your Netlify serverless functions live (already in your repo).
+  directory = "netlify/functions"
+
