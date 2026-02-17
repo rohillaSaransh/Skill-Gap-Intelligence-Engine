@@ -4,10 +4,7 @@ import { useState, useEffect, useRef, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import ResumeUpload from './components/ResumeUpload';
 import JobGrid from './components/JobGrid';
-
-// All client-side calls go through the Netlify function gateway so that
-// API keys and third‑party services are never exposed to the browser.
-const API_BASE = '/.netlify/functions/api';
+import API_BASE from '@/lib/api';
 
 const ANALYZER_STATE_KEY = 'skillsAnalyzerState';
 const SKILL_GAP_JOB_UPDATED_KEY = 'skillGapJobUpdated';

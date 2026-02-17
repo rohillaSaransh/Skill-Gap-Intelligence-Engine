@@ -1,10 +1,7 @@
 'use client';
 
 import { useState, useCallback, useRef } from 'react';
-
-// All client-side calls go through the Netlify function gateway so that
-// API keys and third‑party services are never exposed to the browser.
-const API_BASE = '/.netlify/functions/api';
+import API_BASE from '@/lib/api';
 
 export default function ResumeUpload({ onProfileSaved }) {
   const [dragOver, setDragOver] = useState(false);
