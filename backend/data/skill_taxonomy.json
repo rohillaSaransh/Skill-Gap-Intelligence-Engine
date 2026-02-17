@@ -1,0 +1,25 @@
+{
+  "skills": {
+    "penetration testing": {
+      "aliases": [
+        "pentesting",
+        "pen test",
+        "vapt",
+        "ethical hacking"
+      ],
+      "subskills": [
+        "api penetration testing",
+        "manual penetration testing",
+        "application penetration testing"
+      ]
+    }
+  },
+  "tools": {},
+  "certifications": {},
+  "securityConcepts": {},
+  "securityStandards": {},
+  "databases": {},
+  "operatingSystems": {},
+  "codingLanguages": {},
+  "degree": {}
+}

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1770889566320,
+    "title": "Security Tester",
+    "company": "ImpactQA",
+    "degree": [
+      "Computer Science",
+      "Information Security"
+    ],
+    "tools": [
+      "Burp Suite",
+      "OWASP ZAP",
+      "Nessus",
+      "Metasploit",
+      "Nmap",
+      "Nikto"
+    ],
+    "certifications": [
+      "CEH",
+      "OSCP",
+      "Security+",
+      "GPEN"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Ethical Hacking",
+      "Web security",
+      "API security",
+      "Mobile security",
+      "Network security",
+      "authentication",
+      "authorization",
+      "encryption",
+      "secure coding practices",
+      "OWASP Top 10"
+    ],
+    "yearsOfExperience": "3-5",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Linux",
+      "Windows"
+    ],
+    "codingLanguages": [
+      "Python",
+      "Bash",
+      "PowerShell"
+    ]
+  },
+  {
+    "id": 1770889740252,
+    "title": "Penetration Tester",
+    "company": "Check Point Software",
+    "degree": [],
+    "tools": [
+      "Nessus",
+      "Nmap",
+      "Netcat",
+      "Metasploit",
+      "Burp Suite",
+      "Bloodhound",
+      "Empire",
+      "Wireshark",
+      "Fiddler",
+      "SQLmap"
+    ],
+    "certifications": [
+      "OSCP",
+      "OSWE"
+    ],
+    "skills": [
+      "penetration testing",
+      "ethical hacking",
+      "network surveys",
+      "malware analysis",
+      "breach investigations",
+      "mentoring",
+      "vulnerability interpretation",
+      "white-hat hacking",
+      "information security principles",
+      "OWASP"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Windows",
+      "Unix"
+    ],
+    "codingLanguages": [
+      "Python",
+      "PowerShell",
+      "JavaScript",
+      "Bash"
+    ]
+  },
+  {
+    "id": 1770889832394,
+    "title": "Application Security Consultant - SAST",
+    "company": "eSec Forte Technologies",
+    "degree": [
+      "Computer Science",
+      "Information Security",
+      "related field"
+    ],
+    "tools": [
+      "Fortify",
+      "checkmarx",
+      "Burp Suite",
+      "ZAP"
+    ],
+    "certifications": [
+      "OSCP",
+      "CEH"
+    ],
+    "skills": [
+      "Web Application Security",
+      "API Security",
+      "Mobile Security (iOS and Android)",
+      "Thick Client Application Security",
+      "Static Application Security Testing (SAST)",
+      "OWASP Methodologies",
+      "Secure Coding Practices",
+      "OWASP Top Ten"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770889885734,
+    "title": "Penetration Tester",
+    "company": "Vertiv",
+    "degree": [
+      "information technology",
+      "Computer Science",
+      "related Engineering field"
+    ],
+    "tools": [
+      "IDA Pro",
+      "WinDbg",
+      "BinWalk",
+      "Valgrind",
+      "PIN",
+      "Panda",
+      "S2E",
+      "MetaSploit",
+      "nmap",
+      "Nessus"
+    ],
+    "certifications": [
+      "CISSP (Certified Information Systems Security Professional)",
+      "Offensive Security Web Expert (OSWE)"
+    ],
+    "skills": [
+      "security evaluation",
+      "threat assessments",
+      "vulnerability research",
+      "data bus monitoring",
+      "data injection",
+      "communications protocol analysis",
+      "wireless communications channel snooping",
+      "reverse engineering",
+      "technical reporting",
+      "mentorship",
+      "testing activities",
+      "functional analysis",
+      "memory image capture",
+      "static memory analysis",
+      "data element extraction",
+      "interaction with personnel",
+      "security measures enforcement",
+      "written and verbal communication",
+      "leadership",
+      "dynamic environment adaptability",
+      "security protocols",
+      "cryptography",
+      "authentication",
+      "authorization",
+      "VERTIV SECURE requirements",
+      "Vulnerability Management",
+      "Incident Response processes"
+    ],
+    "yearsOfExperience": "3",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Windows",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "codingLanguages": [
+      "C",
+      "C++"
+    ]
+  },
+  {
+    "id": 1770889918658,
+    "title": "VAPT Engineer - Penetration Testing",
+    "company": "Silverskills Private Limited",
+    "degree": [],
+    "tools": [
+      "VA/PT tools"
+    ],
+    "certifications": [
+      "Certified Vulnerability Assessor (CVA)",
+      "Certified Ethical Hacker (CEH)",
+      "CIPP (Certified Information Privacy Professional)",
+      "CRISC (Certified in Risk and Information Systems Control)",
+      "CISA (Certified Information System Auditor)",
+      "CISSP (Certified Information Security Professional)",
+      "CISM (Certified Information Systems Manager)"
+    ],
+    "skills": [
+      "vulnerability assessment",
+      "penetration testing",
+      "patch assessment",
+      "Windows patching",
+      "Linux patching",
+      "vulnerability scoring systems (CVSS/CMSS)",
+      "writing",
+      "presentation",
+      "communication",
+      "organizational",
+      "analytical thought process",
+      "application security",
+      "network security",
+      "mobile security",
+      "operating system security"
+    ],
+    "yearsOfExperience": "5",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Windows",
+      "Linux"
+    ],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770889950994,
+    "title": "Penetration Tester - MedInsight",
+    "company": "Milliman",
+    "degree": [
+      "bachelor's  computer science",
+      "Information Security",
+      "related field"
+    ],
+    "tools": [
+      "Burp Suite",
+      "Nmap",
+      "Metasploit"
+    ],
+    "certifications": [
+      "GPEN",
+      "GWAPT",
+      "OSCP"
+    ],
+    "skills": [
+      "Application Security",
+      "Penetration Testing",
+      "networking protocols",
+      "web technologies",
+      "problem-solving",
+      "attention to detail",
+      "teamwork",
+      "cybersecurity threats",
+      "attack methods",
+      "vulnerability assessments",
+      "OWASP",
+      "NIST",
+      "ISO 27001"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "Bash",
+      "PowerShell"
+    ]
+  },
+  {
+    "id": 1770889989263,
+    "title": "Penetration Tester",
+    "company": "Resolver, a Kroll Business",
+    "degree": [
+      "Computer Engineering",
+      "Computer Science"
+    ],
+    "tools": [
+      "Burp Suite",
+      "OWASP ZAP",
+      "Nmap",
+      "Nessus",
+      "Metasploit",
+      "Wireshark",
+      "SQLMap",
+      "IDA",
+      "Ghidra",
+      "dnSpy"
+    ],
+    "certifications": [
+      "CEH",
+      "CPENT",
+      "CEH Master",
+      "Master LPT",
+      "OSCP",
+      "WEB-200",
+      "WEB-300",
+      "PEN-300",
+      "GXPN",
+      "GWAPT",
+      "GCPN"
+    ],
+    "skills": [
+      "Web Application Security Testing",
+      "Thick Client Application Security Testing",
+      "Network Penetration Testing",
+      "Secure Code Review",
+      "Automation",
+      "Scripting",
+      "OWASP Top 10",
+      "Secure coding principles",
+      "Common vulnerability patterns",
+      "Authentication",
+      "Authorization",
+      "Session management",
+      "Cryptography basics"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Windows",
+      "Linux"
+    ],
+    "codingLanguages": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 1770890018781,
+    "title": "Application Security Test Engineer - SAST/DAST",
+    "company": "Justdial",
+    "degree": [],
+    "tools": [
+      "Burp Suite Professional",
+      "Postman",
+      "MobSF",
+      "Frida",
+      "Nessus"
+    ],
+    "certifications": [
+      "CEH",
+      "BSCP",
+      "GWAPT",
+      "CREST",
+      "HTB-CWES",
+      "HTB-CPTS"
+    ],
+    "skills": [
+      "manual security testing",
+      "SAST",
+      "DAST",
+      "penetration testing",
+      "vulnerability reporting",
+      "source code reviews",
+      "security vulnerabilities",
+      "business logic flaws",
+      "OWASP Top 10"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "PHP",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 1770890052127,
+    "title": "Security Engineer",
+    "company": "TAC Security",
+    "degree": [
+      "bachelor's  computer science",
+      "bachelor's  information technology",
+      "bachelor's  related field"
+    ],
+    "tools": [
+      "Nmap",
+      "Nessus",
+      "Metasploit",
+      "Burp Suite",
+      "OWASP"
+    ],
+    "certifications": [
+      "Certified Ethical Hacker (CEH)",
+      "Offensive Security Certified Professional (OSCP)"
+    ],
+    "skills": [
+      "penetration testing",
+      "ethical hacking",
+      "security assessments",
+      "vulnerability assessment",
+      "analytical skills",
+      "effective communication",
+      "vulnerabilities",
+      "remediation strategies",
+      "security posture"
+    ],
+    "yearsOfExperience": "2",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Windows",
+      "Linux",
+      "Unix"
+    ],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890089556,
+    "title": "Security Test Engineer",
+    "company": "Allegion India",
+    "degree": [
+      "BE",
+      "M Tech"
+    ],
+    "tools": [
+      "Burp Suite",
+      "Nmap",
+      "Nessus",
+      "Tenable",
+      "Qualys Guard",
+      "Nexpose",
+      "Rapid7",
+      "Metasploit",
+      "Kali",
+      "Frida",
+      "MobSF",
+      "Wireshark"
+    ],
+    "certifications": [
+      "CEH",
+      "OSCP",
+      "OSWP",
+      "Cloud certifications",
+      "AZ-500"
+    ],
+    "skills": [
+      "Exceptional problem-solving skills",
+      "Good verbal and written communication skills",
+      "Strong programming skills",
+      "Experience fuzzing applications and protocols",
+      "Highly technical practitioner",
+      "Excellent interpersonal skills",
+      "Security protocols and principles"
+    ],
+    "yearsOfExperience": "3",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "C#",
+      "Objective C"
+    ]
+  },
+  {
+    "id": 1770890127586,
+    "title": "Security Test Engineer - Penetration Testing",
+    "company": "BNP Paribas",
+    "degree": [],
+    "tools": [
+      "Burp Suite",
+      "OWASP ZAP",
+      "Kali Linux",
+      "mobsf",
+      "jadx",
+      "dex2jar",
+      "adb",
+      "xcode",
+      "Frida",
+      "objection",
+      "apktool",
+      "putil",
+      "otool"
+    ],
+    "certifications": [
+      "CSSLP",
+      "CEH",
+      "OSCP"
+    ],
+    "skills": [
+      "Mobile Penetration Testing",
+      "Web Penetration Testing",
+      "API Penetration Testing",
+      "Static Analysis (SAST)",
+      "Dynamic Analysis (DAST)",
+      "Reverse Engineering",
+      "Application Security Requirements",
+      "OWASP Top 10",
+      "application security risks",
+      "OWASP MASVS",
+      "OWASP MASTG"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Android",
+      "iOS",
+      "Kali Linux"
+    ],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890250686,
+    "title": "Penetration Tester",
+    "company": "Soffit Infrastructure Services (P) Ltd",
+    "degree": [],
+    "tools": [
+      "Burp Suite",
+      "Nmap",
+      "Metasploit",
+      "Nessus",
+      "OWASP ZAP"
+    ],
+    "certifications": [
+      "CEH",
+      "eJPT",
+      "CRTP",
+      "OSCP"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Secure Code Review",
+      "Secure Configuration Reviews",
+      "Project Management",
+      "Client Communication",
+      "Scripting/Programming",
+      "Database Concepts",
+      "Network Protocols",
+      "Vulnerability Assessment and Penetration Testing (VAPT)"
+    ],
+    "yearsOfExperience": "3",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890301267,
+    "title": "Application Security Engineer - Vulnerability Assessment",
+    "company": "Security Lit",
+    "degree": [
+      "Computer Science",
+      "Information Security"
+    ],
+    "tools": [
+      "Burp Suite",
+      "OWASP ZAP",
+      "Postman",
+      "MobSF"
+    ],
+    "certifications": [],
+    "skills": [
+      "application security testing",
+      "vulnerability assessments",
+      "penetration tests",
+      "remediation guidance",
+      "security testing reports",
+      "OWASP Top 10",
+      "application vulnerabilities"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C#"
+    ]
+  },
+  {
+    "id": 1770890357812,
+    "title": "Product Security Analyst",
+    "company": "OneTrust",
+    "degree": [
+      "bachelor's  computer science",
+      "Information Systems",
+      "related field"
+    ],
+    "tools": [
+      "Burp Suite",
+      "Gitlab",
+      "Wiz",
+      "Qualys"
+    ],
+    "certifications": [],
+    "skills": [
+      "application security",
+      "manual penetration testing",
+      "security testing tools",
+      "network protocols",
+      "network security",
+      "access controls",
+      "encryption",
+      "vulnerability management",
+      "web application security concepts",
+      "OWASP Top 10",
+      "SANS Top 25",
+      "OWASP API Top 10",
+      "PCI-DSS",
+      "ISO 27001"
+    ],
+    "yearsOfExperience": "[object object]",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "BASH"
+    ]
+  },
+  {
+    "id": 1770890391782,
+    "title": "Application Security Analyst",
+    "company": "Qualys",
+    "degree": [],
+    "tools": [
+      "QualysGuard",
+      "Burp Suite",
+      "Paros",
+      "Samurai WTF",
+      "Kali Linux"
+    ],
+    "certifications": [],
+    "skills": [
+      "web application vulnerabilities",
+      "ethical hacking",
+      "vulnerability research",
+      "secure coding principles",
+      "application security assessment methodologies",
+      "application security",
+      "information security principles",
+      "malicious code",
+      "security implementations",
+      "OWASP",
+      "WASC"
+    ],
+    "yearsOfExperience": "3",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [
+      "SQL"
+    ],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "PHP",
+      "Java",
+      "Python",
+      "Go",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "XML"
+    ]
+  },
+  {
+    "id": 1770890435357,
+    "title": "Staff Penetration Tester",
+    "company": "Bread Financial",
+    "degree": [
+      "information technology",
+      "information security",
+      "Information Security"
+    ],
+    "tools": [
+      "BloodHound"
+    ],
+    "certifications": [
+      "GPEN",
+      "GCPN",
+      "GWAPT",
+      "ECSA",
+      "OSCP",
+      "LPT Master",
+      "GRTP",
+      "CRTE"
+    ],
+    "skills": [
+      "Reconnaissance",
+      "Data Exploitation",
+      "Web Application Testing",
+      "Active Directory (AD)",
+      "Scripting",
+      "Automation",
+      "Report Writing",
+      "Red Teaming",
+      "penetration testing",
+      "vulnerabilities",
+      "application risks",
+      "identity and access management",
+      "defense",
+      "OWASP",
+      "NIST",
+      "MITRE ATT&CK"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "PowerShell",
+      "Bash"
+    ]
+  },
+  {
+    "id": 1770890544486,
+    "title": "Security Engineer - CSIRT",
+    "company": "WatchGuard Technologies",
+    "degree": [
+      "B. Tech",
+      "M. Tech"
+    ],
+    "tools": [
+      "SIEM",
+      "EDR",
+      "IDS"
+    ],
+    "certifications": [
+      "CEH",
+      "CISSP",
+      "COMPTIA Security plus"
+    ],
+    "skills": [
+      "cybersecurity",
+      "networking",
+      "Incident Response",
+      "cybersecurity frameworks",
+      "NIST CSF",
+      "CIS",
+      "ISO 27001",
+      "PCI-DSS"
+    ],
+    "yearsOfExperience": "2",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "python",
+      "shell",
+      "PowerShell",
+      "C++",
+      "Java"
+    ]
+  },
+  {
+    "id": 1770890571593,
+    "title": "Penetration Tester",
+    "company": "Adobe",
+    "degree": [
+      "IT",
+      "Computer Science"
+    ],
+    "tools": [
+      "Python",
+      "Bash",
+      "PowerShell",
+      "Go",
+      "JavaScript/React",
+      "Docker",
+      "Kubernetes"
+    ],
+    "certifications": [
+      "GIAC GPEN",
+      "OSCP",
+      "OSWE",
+      "CRTP",
+      "eJPT",
+      "CREST",
+      "GXPN",
+      "GPEN",
+      "GWAPT",
+      "CISSP",
+      "CEH"
+    ],
+    "skills": [
+      "penetration testing",
+      "cloud security",
+      "AI/ML security",
+      "vulnerability exploitation",
+      "OWASP Top 10",
+      "OWASP API Top 10",
+      "OWASP LLM Top 10",
+      "secure coding practices",
+      "common code-level vulnerabilities"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "Go",
+      "PowerShell"
+    ]
+  },
+  {
+    "id": 1770890622731,
+    "title": "Lead Penetration Tester",
+    "company": "BreachLock, Inc.",
+    "degree": [
+      "Information Technology",
+      "Cybersecurity",
+      "Information Systems Security"
+    ],
+    "tools": [
+      "Kali Linux",
+      "Burp Suite",
+      "Metasploit",
+      "Nmap",
+      "Nessus"
+    ],
+    "certifications": [
+      "OSCP",
+      "OSCE",
+      "eJPT",
+      "CEH",
+      "CRTO"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Red Teaming",
+      "people management",
+      "Web assessments",
+      "Infrastructure assessments",
+      "Mobile Application assessments",
+      "Cloud assessments",
+      "Vulnerability Assessments",
+      "client relationships",
+      "ethical hacking",
+      "ethical hacking principles"
+    ],
+    "yearsOfExperience": "6",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      ".NET",
+      "Bash",
+      "PowerShell"
+    ]
+  },
+  {
+    "id": 1770890724132,
+    "title": "Cybersecurity Specialist (CTI, Threat hunting & Pen Testing)",
+    "company": "BMC Software",
+    "degree": [
+      "degree or equivalent security-related course"
+    ],
+    "tools": [
+      "SIEM technologies",
+      "threat hunting tools",
+      "pen-testing tools",
+      "malware analysis"
+    ],
+    "certifications": [],
+    "skills": [
+      "cyber threat intelligence (CTI)",
+      "threat hunting",
+      "penetration testing",
+      "problem-solving",
+      "troubleshooting",
+      "interpersonal communication",
+      "cybersecurity threat management",
+      "forensic techniques",
+      "incident response"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Windows",
+      "Unix/Linux"
+    ],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890761314,
+    "title": "Red Team Engineer - VAPT",
+    "company": "eSec Forte Technologies",
+    "degree": [],
+    "tools": [
+      "Azure",
+      "AWS",
+      "GCP",
+      "GitHub",
+      "Azure DevOps"
+    ],
+    "certifications": [],
+    "skills": [
+      "OSINT & cloud recon",
+      "Web Application Exploitation",
+      "VAPT",
+      "Spear phishing",
+      "MFA bypass",
+      "VPN/VDI exploitation",
+      "AD attacks",
+      "privilege escalation",
+      "lateral movement",
+      "EDR evasion & detection bypass",
+      "CI/CD & DevOps abuse",
+      "cloud red teaming",
+      "data exfiltration",
+      "ransomware & impact simulation",
+      "reporting & artifact cleanup",
+      "physical red teaming exposure"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890814685,
+    "title": "Penetration Tester",
+    "company": "Live Connections",
+    "degree": [],
+    "tools": [
+      "IDA Pro",
+      "Ghidra",
+      "Radare2",
+      "Binwalk",
+      "oscilloscopes",
+      "logic analyzers",
+      "chip programmers"
+    ],
+    "certifications": [
+      "OSCP",
+      "GICSP",
+      "CEH"
+    ],
+    "skills": [
+      "penetration testing",
+      "hardware hacking",
+      "reverse engineering",
+      "threat modeling",
+      "risk assessment",
+      "programming",
+      "scripting",
+      "vulnerability scanning",
+      "mitigation strategies",
+      "IEC 62443",
+      "NIST SP 800-82"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "C",
+      "Bash"
+    ]
+  },
+  {
+    "id": 1770890848637,
+    "title": "Cyber Security Analyst - VAPT",
+    "company": "Network Intelligence",
+    "degree": [],
+    "tools": [
+      "BurpSuite Pro",
+      "OWASP ZAP",
+      "Postman"
+    ],
+    "certifications": [],
+    "skills": [
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Manual Security Testing",
+      "Automated Security Testing",
+      "Risk Rating",
+      "Impact Assessment",
+      "Technical Reporting",
+      "Collaboration",
+      "Remediation Validation",
+      "Threat Intelligence",
+      "OWASP",
+      "PTES",
+      "NIST",
+      "CIS",
+      "PCI DSS"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "iOS",
+      "Android"
+    ],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890914585,
+    "title": "Penetration Tester",
+    "company": "Astra Security",
+    "degree": [],
+    "tools": [],
+    "certifications": [
+      "OSCP",
+      "CREST"
+    ],
+    "skills": [
+      "pentesting",
+      "business logic vulnerabilities",
+      "customer interfacing",
+      "OWASP testing guidelines",
+      "Black Box testing",
+      "WhiteBox testing"
+    ],
+    "yearsOfExperience": "2",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890936689,
+    "title": "Offensive Security",
+    "company": "National Payments Corporation Of India (NPCI)",
+    "degree": [],
+    "tools": [
+      "Metasploit",
+      "Burpsuite",
+      "Armitage",
+      "MITRE ATT&CK Framework"
+    ],
+    "certifications": [
+      "OSCP",
+      "OSCE",
+      "OSWE"
+    ],
+    "skills": [
+      "offensive security",
+      "network security",
+      "web security",
+      "API security",
+      "threat modeling",
+      "risk assessment",
+      "technical writing",
+      "communication",
+      "authentication",
+      "security protocols",
+      "cryptography",
+      "IPS/IDS",
+      "Firewalls",
+      "WAF"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "Linux"
+    ],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770890979934,
+    "title": "Analyst I, Cybersecurity (Vulnerability Management)",
+    "company": "FIS",
+    "degree": [],
+    "tools": [
+      "Rapid7",
+      "Qualys",
+      "Nuclei",
+      "Burp Suite"
+    ],
+    "certifications": [],
+    "skills": [
+      "Vulnerability Management Operations",
+      "web application security testing",
+      "vulnerability analysis",
+      "scanning",
+      "analyzing results",
+      "manual verification",
+      "remediation coordination",
+      "PCI DSS compliance"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [
+      "SQL"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "RedHat",
+      "CentOS"
+    ],
+    "codingLanguages": [
+      "Python",
+      "Bash"
+    ]
+  },
+  {
+    "id": 1770891011968,
+    "title": "Application Security Engineer",
+    "company": "JioHotstar",
+    "degree": [],
+    "tools": [
+      "security tools"
+    ],
+    "certifications": [],
+    "skills": [
+      "security testing",
+      "vulnerability identification",
+      "secure SDLC practices",
+      "security assessments",
+      "problem-solving",
+      "root cause analysis",
+      "automation",
+      "security vulnerabilities",
+      "OWASP Top 10",
+      "cloud security",
+      "application security",
+      "operating system security"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [
+      "SQL"
+    ],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "Java",
+      "PHP",
+      "C",
+      "C++",
+      "Javascript",
+      "Ruby",
+      "NodeJS",
+      "Go"
+    ]
+  },
+  {
+    "id": 1770891048798,
+    "title": "Penetration Tester",
+    "company": "Live Connections",
+    "degree": [],
+    "tools": [
+      "IDA Pro",
+      "Ghidra",
+      "Radare2",
+      "Binwalk",
+      "oscilloscopes",
+      "logic analyzers",
+      "chip programmers"
+    ],
+    "certifications": [
+      "OSCP",
+      "GICSP",
+      "CEH"
+    ],
+    "skills": [
+      "penetration testing",
+      "embedded systems",
+      "microcontrollers",
+      "hardware interfaces",
+      "ICS protocols",
+      "industrial architecture",
+      "reverse engineering",
+      "hardware debugging",
+      "threat modeling",
+      "risk assessment",
+      "programming",
+      "scripting",
+      "hardware hacking",
+      "industrial cybersecurity",
+      "vulnerabilities",
+      "mitigation strategies",
+      "IEC 62443",
+      "NIST SP 800-82"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "C",
+      "Bash"
+    ]
+  },
+  {
+    "id": 1770891085677,
+    "title": "Penetration Tester II",
+    "company": "Swiss Re",
+    "degree": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "tools": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "certifications": [
+      "OSCP",
+      "CISSP",
+      "INE",
+      "CEH"
+    ],
+    "skills": [
+      "information security",
+      "penetration testing",
+      "Vulnerability Assessments",
+      "continuous service improvement",
+      "process improvement",
+      "automation",
+      "mentoring",
+      "cloud security testing",
+      "security tool development",
+      "scripting",
+      "DevSecOps",
+      "security integration into CI/CD",
+      "OWASP Top 10 Vulnerabilities",
+      "security frameworks",
+      "ISO27001/2",
+      "NIST"
+    ],
+    "yearsOfExperience": "4",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770891122160,
+    "title": "Security Analyst III, Threat Hunting",
+    "company": "Bolster AI",
+    "degree": [
+      "Computer Science",
+      "Information Security",
+      "related field"
+    ],
+    "tools": [
+      "OSINT tools"
+    ],
+    "certifications": [],
+    "skills": [
+      "threat hunting methodologies",
+      "threat intelligence lifecycle",
+      "phishing emails analysis",
+      "websites analysis",
+      "SMS analysis",
+      "ads analysis",
+      "social media abuse",
+      "phishing",
+      "scam",
+      "brand-abuse threat hunting"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770891161389,
+    "title": "Vulnerability Remediation Analyst / Security Testing Coordinator",
+    "company": "The Missing Link",
+    "degree": [],
+    "tools": [],
+    "certifications": [],
+    "skills": [
+      "coordinating vulnerability remediation",
+      "stakeholder management",
+      "negotiation",
+      "vulnerability remediation",
+      "exploitability assessment",
+      "risk acceptance"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [
+      "operating systems",
+      "networks",
+      "common enterprise platforms"
+    ],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770891193497,
+    "title": "Distinguished Penetration Tester",
+    "company": "Saviynt",
+    "degree": [
+      "Computer Science",
+      "Computer Science",
+      "Information Security",
+      "Information Security",
+      "equivalent work experience"
+    ],
+    "tools": [],
+    "certifications": [
+      "OSCP certification"
+    ],
+    "skills": [
+      "penetration testing",
+      "offensive security",
+      "security assessments",
+      "cloud security",
+      "Kubernetes",
+      "containerized applications",
+      "threat modelling",
+      "security findings analysis",
+      "security tools selection",
+      "technical reporting",
+      "mentoring"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770891238764,
+    "title": "Vulnerability Assessment - Penetration Testing Lead",
+    "company": "Nokia",
+    "degree": [],
+    "tools": [
+      "Nessus",
+      "Qualys",
+      "Burp Suite",
+      "Metasploit"
+    ],
+    "certifications": [],
+    "skills": [
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Red Teaming",
+      "SOC Evaluation",
+      "Incident Response"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770891273277,
+    "title": "Penetration Tester",
+    "company": "SourcingXPress",
+    "degree": [],
+    "tools": [],
+    "certifications": [
+      "CEH",
+      "CRTP",
+      "OSCP"
+    ],
+    "skills": [
+      "Manual Penetration Testing",
+      "Application Penetration Testing",
+      "OWASP Top 10",
+      "Security Configuration Review",
+      "Application Security",
+      "VAPT",
+      "Manual and Automated DAST",
+      "OWASP"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  },
+  {
+    "id": 1770891337872,
+    "title": "Security Consultant - Red Teaming/VAPT",
+    "company": "Gruve",
+    "degree": [
+      "BE",
+      "B.Tech",
+      "MCA",
+      "M.Sc."
+    ],
+    "tools": [
+      "BurpSuite Pro",
+      "Nessus",
+      "OWASP ZAP",
+      "Kali Linux",
+      "Cobalt Strike",
+      "Caldera"
+    ],
+    "certifications": [
+      "OSCP",
+      "OSCE",
+      "CRTP",
+      "eWPTX",
+      "Security+",
+      "CREST",
+      "CRTO"
+    ],
+    "skills": [
+      "Red Teaming",
+      "VAPT",
+      "Application Security (Web/Mobile/API)",
+      "automation scripting",
+      "threat modeling",
+      "secure coding practices",
+      "OWASP Top 10",
+      "OSSTMM"
+    ],
+    "yearsOfExperience": "2-5",
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": [
+      "Python",
+      "Bash",
+      "PowerShell"
+    ]
+  },
+  {
+    "id": 1770891411162,
+    "title": "Penetration Tester – AI & Application Security",
+    "company": "Sii Poland",
+    "degree": [],
+    "tools": [],
+    "certifications": [],
+    "skills": [
+      "application security",
+      "vulnerability exploitation",
+      "chained attacks",
+      "AI/ML security",
+      "LLM vulnerabilities",
+      "prompt engineering attacks",
+      "secure coding practices",
+      "defensive security controls",
+      "written communication",
+      "verbal communication"
+    ],
+    "yearsOfExperience": null,
+    "securityConcepts": [],
+    "securityStandards": [],
+    "databases": [],
+    "operatingSystems": [],
+    "codingLanguages": []
+  }
+]

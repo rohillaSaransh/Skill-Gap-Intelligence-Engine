@@ -1,0 +1,29 @@
+# Node / general
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+dist/
+build/
+
+# Environment / secrets
+.env
+backend/.env
+frontend/.env
+netlify/.env
+netlify/functions/.env
+
+# Next.js
+.next/
+out/
+
+# Logs
+logs/
+*.log
+
+# Misc
+.vercel
+.netlify
+
