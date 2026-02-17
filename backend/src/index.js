@@ -13,7 +13,7 @@
   // Create the Express app - this is our server application
   const app = express();
 
-  // Enable CORS and handle OPTIONS preflight requests so the browser can call this API from another origin.
+  // CORS: allow frontend (Netlify + localhost). No options = allow all origins (production Netlify domain included).
   app.use(cors());
 
   // JSON body parsing middleware: parses incoming JSON in request body into req.body
