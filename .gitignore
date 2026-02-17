@@ -27,6 +27,3 @@ logs/
 .vercel
 .netlify
 
-# Legacy frontend folder (app moved to root; ignore any leftover)
-frontend/
-
