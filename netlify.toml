@@ -1,9 +1,0 @@
-[build]
-  # App is at repo root (Option A).
-  command = "npm run build"
-  publish = ".next"
-
-[functions]
-  # Where your Netlify serverless functions live (already in your repo).
-  directory = "netlify/functions"
-
