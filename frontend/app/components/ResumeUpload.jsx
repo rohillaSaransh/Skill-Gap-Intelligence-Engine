@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useCallback, useRef } from 'react';
-
 // Backend API (set NEXT_PUBLIC_API_URL in production, e.g. on Railway)
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001';
 

@@ -13,15 +13,15 @@
   // Create the Express app - this is our server application
   const app = express();
 
-  // Enable CORS and handle OPTIONS preflight requests so the browser can call this API from another origin.
+  // CORS: allow frontend (Netlify + localhost). No options = allow all origins (production Netlify domain included).
   app.use(cors());
 
   // JSON body parsing middleware: parses incoming JSON in request body into req.body
   // Must be added before routes that need to read the body (e.g. POST /api/skills/analyze)
   app.use(express.json());
 
-  // Define the port the server will listen on (e.g. 3000)
-  const PORT = process.env.PORT || 3000;
+  // Backend runs on 3001 so Next.js dev can use 3000 without conflict
+  const PORT = process.env.PORT || 3001;
 
   const { connectDB } = require('./db/connection');
   connectDB().catch(() => {});
@@ -455,8 +455,26 @@
 
   // ============ START THE SERVER ============
 
-  // Tell the app to listen for incoming requests on PORT
-  app.listen(PORT, () => {
-    // This callback runs once the server has successfully started
-    console.log(`Server is running at http://localhost:${PORT}`);
+  process.on('uncaughtException', (err) => {
+    console.error('Uncaught exception:', err);
   });
+  process.on('unhandledRejection', (reason, promise) => {
+    console.error('Unhandled rejection at', promise, 'reason:', reason);
+  });
+
+  const server = app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Server is running at http://localhost:${PORT}`);
+    console.log('Keep this terminal open. Press Ctrl+C to stop.');
+  });
+
+  server.on('error', (err) => {
+    console.error('Server error:', err);
+    process.exit(1);
+  });
+
+  server.on('close', () => {
+    console.error('Server closed unexpectedly.');
+  });
+
+  // Prevent process from exiting if something closes the server (e.g. on Windows)
+  process.stdin?.resume();

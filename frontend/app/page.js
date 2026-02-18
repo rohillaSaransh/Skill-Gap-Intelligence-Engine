@@ -4,7 +4,6 @@ import { useState, useEffect, useRef, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import ResumeUpload from './components/ResumeUpload';
 import JobGrid from './components/JobGrid';
-
 // Backend API (set NEXT_PUBLIC_API_URL in production, e.g. on Railway)
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001';
 

@@ -12,8 +12,6 @@ build/
 .env
 backend/.env
 frontend/.env
-netlify/.env
-netlify/functions/.env
 
 # Next.js
 .next/
@@ -25,5 +23,4 @@ logs/
 
 # Misc
 .vercel
-.netlify
 
