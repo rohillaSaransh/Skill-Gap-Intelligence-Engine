@@ -5,9 +5,8 @@ import { useRouter } from 'next/navigation';
 import ResumeUpload from './components/ResumeUpload';
 import JobGrid from './components/JobGrid';
 
-// All client-side calls go through the Netlify function gateway so that
-// API keys and third‑party services are never exposed to the browser.
-const API_BASE = '/.netlify/functions/api';
+// Backend API (set NEXT_PUBLIC_API_URL in production, e.g. on Railway)
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001';
 
 const ANALYZER_STATE_KEY = 'skillsAnalyzerState';
 const SKILL_GAP_JOB_UPDATED_KEY = 'skillGapJobUpdated';
