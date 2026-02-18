@@ -1,0 +1,11 @@
+{
+  "name": "skill-gap-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Skill Gap Engine - frontend and backend",
+  "scripts": {
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "npm start --prefix backend",
+    "build:frontend": "npm run build --prefix frontend"
+  }
+}
